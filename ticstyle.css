@@ -1,0 +1,47 @@
+#borderbox
+{
+background-image:url(brackets/tictac.jpg);
+margin:1px;
+padding:400px 1890px 450px;
+}
+#borderbox input
+{
+width:750px;
+height:750px;
+}
+#container
+{
+border-color:black;
+border:solid;
+}
+#container input
+{font-size:500px;
+color:brown;
+}
+#container input:hover
+{
+    background-color:burlywood;
+}
+#restart
+{
+    padding:0px 900px 0px;
+}
+#restart input
+{
+width:500px;
+height:250px;
+color:brown;
+font-size:100px;
+border-color:brown;
+border:solid;
+}
+#leaderboard input
+{
+margin:10px;
+border:solid;
+font-size:105px;
+color:brown;
+background-color:white;
+width:2300px;
+height:150px;
+}
